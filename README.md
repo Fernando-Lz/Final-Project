@@ -1,0 +1,48 @@
+# Final project of Introduction to Swift course
+
+This project summarizes the concepts viewed on class, from simple variable creations, loops and conditionals, to protocols. This concepts were applied to create data structures with the following characteristics:
+
+- ### Queue
+  - **Attributes**
+    - count
+    - isEmpty
+  - **Methods**
+    - enqueue()
+    - dequeue()
+    - getAt()
+    - indexOf()
+    - ocurrences()
+- ### Deque
+  - **Attributes**
+    - count
+    - isEmpty
+  - **Methods**
+    - enqueue()
+    - addFirst()
+    - dequeue
+    - removeLast()
+    - getAt()
+    - indexOf()
+    - ocurrences()
+- ### Stack
+  - **Attributes**
+    - count
+    - isEmpty
+  - **Methods**
+    - push()
+    - pop()
+    - peek()
+    - getAt()
+    - indexOf()
+    - ocurrences()
+- ### Binary Search Tree
+  - **Attributes**
+    - count
+    - isEmpty
+  - **Methods**
+    - insert()
+    - remove()
+    - proOrder()
+    - inOrder()
+    - postOrder()
+    - search()
